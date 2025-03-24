@@ -1,2 +1,1 @@
-# ShoeLandia3
-Web
+# ShoeLandia
